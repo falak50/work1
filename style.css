@@ -13,7 +13,7 @@ h1{
 
     width: 40%;
     float: left;
-    margin left:20px ;
+    margin-left:20px ;
     padding: 2%;
 }
 .link-button{
@@ -60,10 +60,10 @@ background-image: url("pic/newp2.jpeg");
 }
 .trd{
 
-    width: 40%;
+    width: 30%;
     float: left;
-    margin left:20px ;
-    padding: 2%;
+    margin-left: 0px;
+    padding: 1%;
   
 
 }
